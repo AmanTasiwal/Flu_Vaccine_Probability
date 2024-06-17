@@ -1,1 +1,1 @@
-# Flu_Vaccine_Probability
+Predicting the probability of individuals receiving XYZ and seasonal flu vaccines the use of system learning models. The assignment utilizes demographic, behavioral, and fitness-related statistics to output vaccination chances, supporting public fitness tasks better recognize vaccine uptake styles. The overall performance is assessed the use of ROC AUC ratings for accuracy.
